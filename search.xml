@@ -22,6 +22,12 @@
   
     
     <entry>
+      <title><![CDATA[about]]></title>
+      <url>https://theOutter.github.io/about/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[算法]]></title>
       <url>https://theOutter.github.io/algorithm/index.html</url>
       <content type="html"></content>
@@ -36,12 +42,6 @@
     <entry>
       <title><![CDATA[categories]]></title>
       <url>https://theOutter.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[about]]></title>
-      <url>https://theOutter.github.io/about/index.html</url>
       <content type="html"></content>
     </entry>
     
