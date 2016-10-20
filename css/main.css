@@ -1564,7 +1564,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #36ff42;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2323,7 +2323,7 @@ a.search-result {
   overflow: hidden;
 }
 body {
-  background: #f5f7f9;
+  background: #d7f0f0;
 }
 @media (min-width: 992px) {
   .full-image.full-image.full-image {
@@ -2353,7 +2353,7 @@ body {
   overflow: hidden;
   padding: 0;
   width: 240px;
-  background: #fff;
+  background: #d7f0f0;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
@@ -2560,7 +2560,7 @@ body {
   background-color: #bbb;
 }
 .btn-bar {
-  background-color: #fff;
+  background-color: #d7f0f0;
 }
 .site-nav-toggle {
   top: 20px;
@@ -2584,7 +2584,7 @@ body {
   box-sizing: border-box;
   width: 240px;
   color: #555;
-  background: #fff;
+  background: #d7f0f0;
 }
 .sidebar-inner.affix {
   position: fixed;
