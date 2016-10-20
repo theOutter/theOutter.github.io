@@ -1564,7 +1564,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2aa7ff;
+  background: #14388e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2500,7 +2500,7 @@ body {
 .brand {
   display: block;
   padding: 0;
-  background: none;
+  background: url("images/logo.png");
 }
 .brand:hover {
   color: #fff;
