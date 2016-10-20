@@ -22,6 +22,12 @@
   
     
     <entry>
+      <title><![CDATA[算法]]></title>
+      <url>https://theOutter.github.io/algorithm/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[about]]></title>
       <url>https://theOutter.github.io/about/index.html</url>
       <content type="html"></content>
@@ -34,14 +40,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[算法]]></title>
-      <url>https://theOutter.github.io/algorithm/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[tags]]></title>
-      <url>https://theOutter.github.io/tags/index.html</url>
+      <title><![CDATA[android]]></title>
+      <url>https://theOutter.github.io/android/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -52,8 +52,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[android]]></title>
-      <url>https://theOutter.github.io/android/index.html</url>
+      <title><![CDATA[tags]]></title>
+      <url>https://theOutter.github.io/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
