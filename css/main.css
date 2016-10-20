@@ -1494,7 +1494,7 @@ pre .javascript .function {
   margin-top: 0;
   text-align: center;
   font-size: 13px;
-  color: #999;
+  color: #fff;
 }
 .site-state {
   overflow: hidden;
@@ -1564,7 +1564,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe4f1;
+  background: #42dd4b;
 }
 .links-of-blogroll {
   font-size: 13px;
