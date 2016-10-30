@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[hello world]]></title>
+      <url>https://theOutter.github.io/2016/10/30/hello-world-1/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>https://theOutter.github.io/2016/10/30/Hello-World-0/</url>
       <content type="html"><![CDATA[<pre><code>int main()
@@ -38,26 +44,14 @@
   
     
     <entry>
-      <title><![CDATA[archives]]></title>
-      <url>https://theOutter.github.io/archives/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[about]]></title>
       <url>https://theOutter.github.io/about/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[algorithm]]></title>
-      <url>https://theOutter.github.io/algorithm/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[android]]></title>
-      <url>https://theOutter.github.io/android/index.html</url>
+      <title><![CDATA[archives]]></title>
+      <url>https://theOutter.github.io/archives/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -68,7 +62,7 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Cloudcategories]]></title>
+      <title><![CDATA[Categories]]></title>
       <url>https://theOutter.github.io/categories/index.html</url>
       <content type="html"></content>
     </entry>
