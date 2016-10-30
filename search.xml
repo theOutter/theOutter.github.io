@@ -38,8 +38,8 @@
   
     
     <entry>
-      <title><![CDATA[algorithm]]></title>
-      <url>https://theOutter.github.io/algorithm/index.html</url>
+      <title><![CDATA[archives]]></title>
+      <url>https://theOutter.github.io/archives/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -50,26 +50,26 @@
     </entry>
     
     <entry>
+      <title><![CDATA[algorithm]]></title>
+      <url>https://theOutter.github.io/algorithm/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[android]]></title>
       <url>https://theOutter.github.io/android/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[archives]]></title>
-      <url>https://theOutter.github.io/archives/index.html</url>
+      <title><![CDATA[Tagcloud]]></title>
+      <url>https://theOutter.github.io/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[Cloudcategories]]></title>
       <url>https://theOutter.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tagcloud]]></title>
-      <url>https://theOutter.github.io/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
