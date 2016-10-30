@@ -13,8 +13,14 @@
   
     
     <entry>
-      <title><![CDATA[Tagcloud]]></title>
-      <url>https://theOutter.github.io/tags/index.html</url>
+      <title><![CDATA[Categories]]></title>
+      <url>https://theOutter.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[about]]></title>
+      <url>https://theOutter.github.io/about/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -25,14 +31,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>https://theOutter.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[about]]></title>
-      <url>https://theOutter.github.io/about/index.html</url>
+      <title><![CDATA[Tagcloud]]></title>
+      <url>https://theOutter.github.io/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
