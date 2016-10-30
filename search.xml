@@ -50,6 +50,12 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>https://theOutter.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[archives]]></title>
       <url>https://theOutter.github.io/archives/index.html</url>
       <content type="html"></content>
@@ -58,12 +64,6 @@
     <entry>
       <title><![CDATA[Tagcloud]]></title>
       <url>https://theOutter.github.io/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>https://theOutter.github.io/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
